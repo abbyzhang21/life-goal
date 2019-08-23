@@ -6,4 +6,4 @@
 - clone the repo
 - Install Project dependancies: `npm install`
 - Run `ng serve` in your terminal
-- Open your browser and visit http:localhost:4200
+- Open your browser and visit http://localhost:4200
