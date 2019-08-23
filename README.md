@@ -1,6 +1,6 @@
-## **List your bucket list**
+## **bucket list**
 
-##**Installation**
+##**Installation**##
 To get the project up and running:
 - Download and install Node
 - clone the repo
