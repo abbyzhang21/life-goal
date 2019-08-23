@@ -2,10 +2,9 @@
     What's your bucket list?
 </h2>   
 <ul>
-    <li>Adcenture travel</li>
-    <li>volunteerism</li>
-    <li>crazy fun</li>
-    <li>connecting with nature</li>
+    <li *ngFor="let goal of goals">
+        {{ goal }}
+    </li>
 </ul>
 <a href="" (click)="sendMeHome()">
     <strong>Take me back </strong>
